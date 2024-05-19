@@ -3,8 +3,6 @@ I'm Rodrigo, a experencied developer from Brazil.
 
 - 👨‍💻 Working at [Cashway](https://cashway.io/) 
 
-+ a lot more ;)
-
 ## Skills
 - 👨‍💻 Delphi
 - 💽 PostgreSQL, MySQL, SQL, Firebird
