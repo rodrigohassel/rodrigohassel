@@ -1,11 +1,19 @@
 ## Hey! 👋
-I'm Rodrigo, a experencied developer from Brazil.
+I'm Rodrigo, husband and father of Livia and an experencied developer from Brazil.
 
 - 👨‍💻 Working at [Cashway](https://cashway.io/) 
 
 ## Skills
-- 👨‍💻 Delphi
+- 👨‍💻 Delphi (Object Pascal)
 - 💽 PostgreSQL, MySQL, SQL, Firebird
+- Docker
 
-## Contact
+## Studying...
+- Ruby on Rails
+- NodeJs
+- React
+- React Native
+- Python
+
+## Contact me
 - [Linked-in](https://www.linkedin.com/in/rodrigohassel/)
